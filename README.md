@@ -42,7 +42,24 @@ NutriGuard AI uses machine learning techniques to:
 Demo video available here:  
 📎 https://drive.google.com/file/d/1fHqzwTXD8zlupUn-N8EzOhlQYPW7F1E4/view?usp=sharing
 ## 📷 Screenshots
-Screenshots of the UI and recommendation results are available in the `screenshots/` folder.
+
+### Home Interface
+![Home UI](screenshots/ui_home.png)
+
+### Recipe Collection
+![Recipes](screenshots/recipe_collection.png)
+
+### Health Tips & Wellness
+![Health Tips](screenshots/health_tips.png)
+
+### Food Nutrition Lookup
+![Food Lookup](screenshots/food_lookup.png)
+
+### Recipe Nutrition Generator
+![Nutrition Generator](screenshots/nutrition_generator.png)
+
+### User Dashboard
+![Dashboard](screenshots/dashboard.png)
 
 ## 📘 Learning Outcomes
 - Designing AI-driven recommendation systems
