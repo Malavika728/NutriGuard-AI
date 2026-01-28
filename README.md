@@ -44,7 +44,7 @@ Demo video available here:
 ## 📷 Screenshots
 
 ### Home Interface
-![Home UI](screenshots/ui_home.png)
+![Home UI](screenshots/ui_home_page.png)
 
 ### Recipe Collection
 ![Recipes](screenshots/recipe_collection.png)
