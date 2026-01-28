@@ -53,10 +53,10 @@ Demo video available here:
 ![Health Tips](screenshots/health_tips.png)
 
 ### Food Nutrition Lookup
-![Food Lookup](screenshots/food_lookup.png)
+![Food Lookup](screenshots/nutrition_lookup.png)
 
 ### Recipe Nutrition Generator
-![Nutrition Generator](screenshots/nutrition_generator.png)
+![Nutrition Generator](screenshots/recipe_nutrition_generator.png)
 
 ### User Dashboard
 ![Dashboard](screenshots/dashboard.png)
